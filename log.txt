@@ -1,0 +1,12 @@
+UserID: 7209762563 | Time: 2024-09-11 12:02:31.817115 | Command: /bgmi | Target: 4.213.65.122 | Port: 28821 | Time: 300
+Username: @Vip_DDos_07
+Target: 4.213.65.122
+Port: 28821
+Time: 300
+
+UserID: 7209762563 | Time: 2024-09-11 12:07:35.177345 | Command: /bgmi | Target: 4.213.65.122 | Port: 28821 | Time: 180
+Username: @Vip_DDos_07
+Target: 4.213.65.122
+Port: 28821
+Time: 180
+

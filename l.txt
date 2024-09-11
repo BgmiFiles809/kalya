@@ -1,0 +1,102 @@
+UserID: 7209762563 | Time: 2024-09-11 12:14:01.379360 | Command: /bgmi | Target: 4.213.65.122 | Port: 28821 | Time: 180
+Username: @Vip_DDos_07
+Target: 4.213.65.122
+Port: 28821
+Time: 180
+
+UserID: 7209762563 | Time: 2024-09-11 12:15:19.939227 | Command: /bgmi | Target: 4.213.65.122 | Port: 28821 | Time: 180
+Username: @Vip_DDos_07
+Target: 4.213.65.122
+Port: 28821
+Time: 180
+
+UserID: 7209762563 | Time: 2024-09-11 12:17:17.727143 | Command: /bgmi | Target: 4.213.65.122 | Port: 28821 | Time: 180
+Username: @Vip_DDos_07
+Target: 4.213.65.122
+Port: 28821
+Time: 180
+
+UserID: 7209762563 | Time: 2024-09-11 12:19:30.355097 | Command: /bgmi | Target: 20.204.16.74 | Port: 13285 | Time: 300
+Username: @Vip_DDos_07
+Target: 20.204.16.74
+Port: 13285
+Time: 300
+
+UserID: 7209762563 | Time: 2024-09-11 12:25:04.411813 | Command: /bgmi | Target: 20.204.16.74 | Port: 13285 | Time: 180
+Username: @Vip_DDos_07
+Target: 20.204.16.74
+Port: 13285
+Time: 180
+
+UserID: 7209762563 | Time: 2024-09-11 12:31:53.932123 | Command: /bgmi | Target: 20.204.16.74 | Port: 13285 | Time: 180
+Username: @Vip_DDos_07
+Target: 20.204.16.74
+Port: 13285
+Time: 180
+
+UserID: 7209762563 | Time: 2024-09-11 13:52:03.253713 | Command: /bgmi | Target: 20.235.92.48 | Port: 18446 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.48
+Port: 18446
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 13:58:08.868580 | Command: /bgmi | Target: 20.235.92.48 | Port: 18446 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.48
+Port: 18446
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 14:10:06.936019 | Command: /bgmi | Target: 20.235.92.48 | Port: 18446 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.48
+Port: 18446
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 14:11:37.171478 | Command: /bgmi | Target: 20.198.110.192 | Port: 23172 | Time: 120
+Username: @Vip_DDos_07
+Target: 20.198.110.192
+Port: 23172
+Time: 120
+
+UserID: 7209762563 | Time: 2024-09-11 14:49:53.263077 | Command: /bgmi | Target: 20.235.92.64 | Port: 29613 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.64
+Port: 29613
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 14:55:01.482905 | Command: /bgmi | Target: 20.235.92.64 | Port: 29613 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.64
+Port: 29613
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 14:58:45.202174 | Command: /bgmi | Target: 20.235.92.64 | Port: 29613 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.64
+Port: 29613
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 15:00:30.270152 | Command: /bgmi | Target: 20.235.92.64 | Port: 29613 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.64
+Port: 29613
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 15:01:34.401124 | Command: /bgmi | Target: 20.235.92.64 | Port: 29613 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.64
+Port: 29613
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 15:02:28.427913 | Command: /bgmi | Target: 20.235.92.64 | Port: 29613 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.235.92.64
+Port: 29613
+Time: 200
+
+UserID: 7209762563 | Time: 2024-09-11 15:27:49.914528 | Command: /bgmi | Target: 20.219.160.167 | Port: 19813 | Time: 200
+Username: @Vip_DDos_07
+Target: 20.219.160.167
+Port: 19813
+Time: 200
+
